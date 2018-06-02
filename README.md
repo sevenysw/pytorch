@@ -1,4 +1,7 @@
-# pytorch
+# Basic MNIST Example
 
-some new ideas using pytorch
-1, half batch
+```bash
+pip install -r requirements.txt
+python main.py
+# CUDA_VISIBLE_DEVICES=2 python main.py  # to specify GPU id to ex. 2
+```
